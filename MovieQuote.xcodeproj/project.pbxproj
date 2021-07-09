@@ -14,6 +14,7 @@
 		3C762C7D2697DD0C00F59C90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C762C7C2697DD0C00F59C90 /* Assets.xcassets */; };
 		3C762C802697DD0C00F59C90 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C762C7E2697DD0C00F59C90 /* LaunchScreen.storyboard */; };
 		3C762C882697ECAE00F59C90 /* MovieQuote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C762C872697ECAE00F59C90 /* MovieQuote.swift */; };
+		3C762C8A2698022400F59C90 /* MovieQuoteDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C762C892698022400F59C90 /* MovieQuoteDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3C762C7F2697DD0C00F59C90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C762C812697DD0C00F59C90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3C762C872697ECAE00F59C90 /* MovieQuote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieQuote.swift; sourceTree = "<group>"; };
+		3C762C892698022400F59C90 /* MovieQuoteDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieQuoteDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				3C762C7E2697DD0C00F59C90 /* LaunchScreen.storyboard */,
 				3C762C812697DD0C00F59C90 /* Info.plist */,
 				3C762C872697ECAE00F59C90 /* MovieQuote.swift */,
+				3C762C892698022400F59C90 /* MovieQuoteDetailViewController.swift */,
 			);
 			path = MovieQuote;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3C762C782697DD0B00F59C90 /* MovieQuotesTableViewController.swift in Sources */,
+				3C762C8A2698022400F59C90 /* MovieQuoteDetailViewController.swift in Sources */,
 				3C762C882697ECAE00F59C90 /* MovieQuote.swift in Sources */,
 				3C762C742697DD0B00F59C90 /* AppDelegate.swift in Sources */,
 				3C762C762697DD0B00F59C90 /* SceneDelegate.swift in Sources */,
